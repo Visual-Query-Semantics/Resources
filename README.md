@@ -8,3 +8,8 @@
 * [6] `ACL22_Knowledge Neurons in Pretrained Transformers.`
 * [7] ICLR22_Beit: Bert pre-training of image transformers.
 * [8] `CVPR22_Masked Autoencoders Are Scalable Vision Learners.`
+
+## Generative Pretrained Visual Models
+
+* * *
+
