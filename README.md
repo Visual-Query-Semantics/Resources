@@ -12,7 +12,7 @@
 ## Generative Pretrained Visual Models, Masked Image Modeling (MIM)
 
 Method|Conference|Title|Code
------|----|-----|-----|-----
+----|-----|-----|-----
 iGPT|ICML 2020|[Generative Pretraining from Pixels](http://proceedings.mlr.press/v119/chen20s/chen20s.pdf)|[iGPT](https://github.com/openai/image-gpt)
 SiT|Arxiv 2021|[SiT: Self-supervised vIsion Transformer](https://arxiv.org/pdf/2104.03602.pdf)|[SiT](https://github.com/Sara-Ahmed/SiT)
 MST|NeurIPS 2021|[MST: Masked Self-Supervised Transformer for Visual Representation](https://arxiv.org/pdf/2106.05656.pdf)|None
