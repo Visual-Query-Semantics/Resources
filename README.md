@@ -11,7 +11,8 @@
 
 ## Generative Pretrained Visual Models, with Masked Image Modeling (MIM)
 
-Masked Image Modeling (MIM), inherits the `mask-and-reconstruct` thought from masked autoencoding methods in NLP field, such as [BERT](https://github.com/google-research/bert). More concretely, parts of content in input image are masked to learn latent representations from the visible regions by encoder, which are then used to reconstruct content by decoder.
+Masked Image Modeling (MIM), inherits the `mask-and-reconstruct` thought from masked autoencoding methods in NLP field, such as [BERT](https://github.com/google-research/bert). More concretely, parts of content in input image are masked to learn latent representations from the visible regions by encoder, which are then used to reconstruct content by decoder. For the downstream visual tasks, the encoder is expected to yield robust representation with `rich semantic information`. However, the language naturally has semantics highly abstracted by human, where the elemental unit is also discrete. In contrast, pixels contained in image merely contain low-level statistics and often present the heavy redundancy due to the continuous property of image.
+
 
 Method|Conference|Title|Code
 -----|-----|-----|-----
