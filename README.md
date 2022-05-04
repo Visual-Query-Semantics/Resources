@@ -15,7 +15,6 @@ Masked Image Modeling (MIM), inherits the `mask-and-reconstruct` thought from ma
 
 Method|Conference|Title|Code
 -----|-----|-----|-----
-iGPT|ICML 2020|[Generative Pretraining from Pixels](http://proceedings.mlr.press/v119/chen20s/chen20s.pdf)|[iGPT](https://github.com/openai/image-gpt)
 SiT|Arxiv 2021|[SiT: Self-supervised vIsion Transformer](https://arxiv.org/pdf/2104.03602.pdf)|[SiT](https://github.com/Sara-Ahmed/SiT)
 MST|NeurIPS 2021|[MST: Masked Self-Supervised Transformer for Visual Representation](https://arxiv.org/pdf/2106.05656.pdf)|None
 BEiT|ICLR 2022|[BEiT: BERT Pre-Training of Image Transformers](https://arxiv.org/abs/2106.08254)|[BEiT](https://github.com/microsoft/unilm/tree/master/beit)
