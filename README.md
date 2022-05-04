@@ -1,4 +1,4 @@
-## Readling List
+## Reading List
 
 * [1] IJCAI17_Image-embodied Knowledge Representation Learning.
 * [2] EMNLP19_Language Models as Knowledge Bases.
