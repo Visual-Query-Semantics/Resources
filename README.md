@@ -11,6 +11,4 @@
 
 ## Generative Pretrained Visual Models
 
-* * *
-
 * [1] IJCAI17_Image-embodied Knowledge Representation Learning.
