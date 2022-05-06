@@ -2,7 +2,7 @@
 
 * [1] IJCAI17_Image-embodied Knowledge Representation Learning.
 * [2] `EMNLP19_Language Models as Knowledge Bases.`
-* [3] ArXiv19_SPair-71k: A Large-scale Benchmark for Semantic Correspondence.
+* [3] Arxiv19_SPair-71k: A Large-scale Benchmark for Semantic Correspondence.
 * [4] `EMNLP20_Transformer Feed-Forward Layers Are Key-Value Memories.`
 * [5] ICLR21_An Image is Worth 16x16 Words: Transformers for Image Recognition at Scale.
 * [6] ACL21_Knowledgeable or Educated Guess Revisiting Language Models as Knowledge Bases.
