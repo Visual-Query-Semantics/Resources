@@ -1,7 +1,7 @@
 ## Reading List
 
 * [01] CVPR14_Cross-Scale Cost Aggregation for Stereo Matching.
-* [02] NeurIPS17_Attention Is All You Need.
+* [02] `NeurIPS17_Attention Is All You Need.`
 * [03] IJCAI17_Image-embodied Knowledge Representation Learning.
 * [04] `EMNLP19_Language Models as Knowledge Bases.`
 * [05] Arxiv19_SPair-71k: A Large-scale Benchmark for Semantic Correspondence.
