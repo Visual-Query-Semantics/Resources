@@ -1,16 +1,17 @@
 ## Reading List
 
-* [01] CVPR2014_Cross-Scale Cost Aggregation for Stereo Matching.
-* [02] IJCAI17_Image-embodied Knowledge Representation Learning.
-* [03] `EMNLP19_Language Models as Knowledge Bases.`
-* [04] Arxiv19_SPair-71k: A Large-scale Benchmark for Semantic Correspondence.
-* [05] ICCV19_Hyperpixel Flow: Semantic Correspondence with Multi-layer Neural Features.
-* [06] `EMNLP20_Transformer Feed-Forward Layers Are Key-Value Memories.`
-* [07] ICLR21_An Image is Worth 16x16 Words: Transformers for Image Recognition at Scale.
-* [08] ACL21_Knowledgeable or Educated Guess Revisiting Language Models as Knowledge Bases.
-* [09] `ACL22_Knowledge Neurons in Pretrained Transformers.`
-* [10] ICLR22_Beit: Bert pre-training of image transformers.
-* [11] `CVPR22_Masked Autoencoders Are Scalable Vision Learners.`
+* [01] CVPR14_Cross-Scale Cost Aggregation for Stereo Matching.
+* [02] NeurIPS17_Attention Is All You Need.
+* [03] IJCAI17_Image-embodied Knowledge Representation Learning.
+* [04] `EMNLP19_Language Models as Knowledge Bases.`
+* [05] Arxiv19_SPair-71k: A Large-scale Benchmark for Semantic Correspondence.
+* [06] ICCV19_Hyperpixel Flow: Semantic Correspondence with Multi-layer Neural Features.
+* [07] `EMNLP20_Transformer Feed-Forward Layers Are Key-Value Memories.`
+* [08] ICLR21_An Image is Worth 16x16 Words: Transformers for Image Recognition at Scale.
+* [09] ACL21_Knowledgeable or Educated Guess Revisiting Language Models as Knowledge Bases.
+* [10] `ACL22_Knowledge Neurons in Pretrained Transformers.`
+* [11] ICLR22_Beit: Bert pre-training of image transformers.
+* [12] `CVPR22_Masked Autoencoders Are Scalable Vision Learners.`
 
 ## Generative Pretrained Visual Models, with Masked Image Modeling (MIM)
 
