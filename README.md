@@ -5,14 +5,15 @@
 * [03] IJCAI17_Image-embodied Knowledge Representation Learning.
 * [04] Blog19_[Transformer Architecture: The Positional Encoding](https://kazemnejad.com/blog/transformer_architecture_positional_encoding/).
 * [05] `EMNLP19_Language Models as Knowledge Bases.`
-* [06] Arxiv19_SPair-71k: A Large-scale Benchmark for Semantic Correspondence.
-* [07] ICCV19_Hyperpixel Flow: Semantic Correspondence with Multi-layer Neural Features.
-* [08] `EMNLP20_Transformer Feed-Forward Layers Are Key-Value Memories.`
-* [09] ICLR21_An Image is Worth 16x16 Words: Transformers for Image Recognition at Scale.
-* [10] ACL21_Knowledgeable or Educated Guess Revisiting Language Models as Knowledge Bases.
-* [11] `ACL22_Knowledge Neurons in Pretrained Transformers.`
-* [12] ICLR22_Beit: Bert pre-training of image transformers.
-* [13] `CVPR22_Masked Autoencoders Are Scalable Vision Learners.`
+* [06] AAAI21_`Self-Attention Attribution: Interpreting Information Interactions Inside Transformer.`
+* [07] Arxiv19_SPair-71k: A Large-scale Benchmark for Semantic Correspondence.
+* [08] ICCV19_Hyperpixel Flow: Semantic Correspondence with Multi-layer Neural Features.
+* [09] `EMNLP20_Transformer Feed-Forward Layers Are Key-Value Memories.`
+* [10] ICLR21_An Image is Worth 16x16 Words: Transformers for Image Recognition at Scale.
+* [11] ACL21_Knowledgeable or Educated Guess Revisiting Language Models as Knowledge Bases.
+* [12] `ACL22_Knowledge Neurons in Pretrained Transformers.`
+* [13] ICLR22_Beit: Bert pre-training of image transformers.
+* [14] `CVPR22_Masked Autoencoders Are Scalable Vision Learners.`
 
 ## Generative Pretrained Visual Models, with Masked Image Modeling (MIM)
 
