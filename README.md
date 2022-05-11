@@ -1,19 +1,19 @@
 ## Reading List
 
 * [01] CVPR14_Cross-Scale Cost Aggregation for Stereo Matching.
-* [02] `NeurIPS17_Attention Is All You Need.`
+* [02] NeurIPS17_`Attention Is All You Need.`
 * [03] IJCAI17_Image-embodied Knowledge Representation Learning.
 * [04] Blog19_[Transformer Architecture: The Positional Encoding](https://kazemnejad.com/blog/transformer_architecture_positional_encoding/).
-* [05] `EMNLP19_Language Models as Knowledge Bases.`
+* [05] EMNLP19_`Language Models as Knowledge Bases.`
 * [06] AAAI21_`Self-Attention Attribution: Interpreting Information Interactions Inside Transformer.`
 * [07] Arxiv19_SPair-71k: A Large-scale Benchmark for Semantic Correspondence.
 * [08] ICCV19_Hyperpixel Flow: Semantic Correspondence with Multi-layer Neural Features.
-* [09] `EMNLP20_Transformer Feed-Forward Layers Are Key-Value Memories.`
+* [09] EMNLP20_`Transformer Feed-Forward Layers Are Key-Value Memories.`
 * [10] ICLR21_An Image is Worth 16x16 Words: Transformers for Image Recognition at Scale.
 * [11] ACL21_Knowledgeable or Educated Guess Revisiting Language Models as Knowledge Bases.
-* [12] `ACL22_Knowledge Neurons in Pretrained Transformers.`
+* [12] ACL22_`Knowledge Neurons in Pretrained Transformers.`
 * [13] ICLR22_Beit: Bert pre-training of image transformers.
-* [14] `CVPR22_Masked Autoencoders Are Scalable Vision Learners.`
+* [14] CVPR22_`Masked Autoencoders Are Scalable Vision Learners.`
 
 ## Generative Pretrained Visual Models, with Masked Image Modeling (MIM)
 
