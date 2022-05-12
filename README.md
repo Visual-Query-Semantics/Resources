@@ -5,7 +5,7 @@
 * [03] ICML17_`Axiomatic Attribution for Deep Networks.`
 * [04] IJCAI17_Image-embodied Knowledge Representation Learning.
 * [05] Arxiv18_Automatic Differentiation in Machine Learning: a Survey.
-* [06] Course18_[CSC321 Lecture 10: Automatic Differentiation](https://www.cs.toronto.edu/~rgrosse/courses/csc321_2018/slides/lec10.pdf)
+* [06] Course18_[CSC321 Lecture 10: Automatic Differentiation](https://www.cs.toronto.edu/~rgrosse/courses/csc321_2018/slides/lec10.pdf).
 * [07] Blog19_[Transformer Architecture: The Positional Encoding](https://kazemnejad.com/blog/transformer_architecture_positional_encoding/).
 * [08] EMNLP19_`Language Models as Knowledge Bases.`
 * [09] Arxiv19_SPair-71k: A Large-scale Benchmark for Semantic Correspondence.
