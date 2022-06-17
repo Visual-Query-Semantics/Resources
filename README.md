@@ -28,6 +28,7 @@
 * CVPR22_VL-InterpreT: An Interactive Visualization Tool for Interpreting Vision-Language Transformers.
 * ACL22_Does BERT Know that the IS-A Relation Is Transitive?
 * Arxiv22_Visualizing and Understanding Patch Interactions in Vision Transformer.
+* ICML22_Rethinking Attention-Model Explainability through Faithfulness Violation Test.
 
 ## Pretrained Vision Models, with Masked Image Modeling (MIM)
 
