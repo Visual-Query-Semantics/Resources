@@ -1,29 +1,32 @@
 ## Reading List
 
-* [01] CVPR14_Cross-Scale Cost Aggregation for Stereo Matching.
-* [02] NeurIPS17_`Attention Is All You Need.`
-* [03] ICML17_`Axiomatic Attribution for Deep Networks.`
-* [04] IJCAI17_Image-embodied Knowledge Representation Learning.
-* [05] Arxiv18_Automatic Differentiation in Machine Learning: a Survey.
-* [06] Course18_[CSC321 Lecture 10: Automatic Differentiation](https://www.cs.toronto.edu/~rgrosse/courses/csc321_2018/slides/lec10.pdf).
-* [07] Blog18_[The Illustrated Transformer](https://jalammar.github.io/illustrated-transformer/).
-* [08] Blog19_[Transformer Architecture: The Positional Encoding](https://kazemnejad.com/blog/transformer_architecture_positional_encoding/).
-* [09] BlackBoxNLP19_What Does BERT Look At? An Analysis of BERT's Attention.
-* [10] EMNLP19_`Language Models as Knowledge Bases.`
-* [11] Arxiv19_SPair-71k: A Large-scale Benchmark for Semantic Correspondence.
-* [12] ICCV19_Hyperpixel Flow: Semantic Correspondence with Multi-layer Neural Features.
-* [13] ACL20_What Does BERT with Vision Look At?
-* [14] EMNLP20_`Transformer Feed-Forward Layers Are Key-Value Memories.`
-* [15] ICLR21_An Image is Worth 16x16 Words: Transformers for Image Recognition at Scale.
-* [16] ACL21_Knowledgeable or Educated Guess Revisiting Language Models as Knowledge Bases.
-* [17] AAAI21_`Self-Attention Attribution: Interpreting Information Interactions Inside Transformer.`
-* [18] ACL22_`Knowledge Neurons in Pretrained Transformers.`
-* [19] ICLR22_Beit: Bert pre-training of image transformers.
-* [20] CVPR22_`Masked Autoencoders Are Scalable Vision Learners.`
-* [21] Arxiv22_Hierarchical Text-Conditional Image Generation with CLIP Latents. [DALLE2](https://openai.com/dall-e-2/)
-* [22] Arxiv22_A very preliminary analysis of DALL-E 2.
-* [23] Arxiv22_Photorealistic Text-to-Image Diffusion Models with Deep Language Understanding. [Imagen](https://imagen.research.google/)
-
+* CVPR14_Cross-Scale Cost Aggregation for Stereo Matching.
+* NeurIPS17_`Attention Is All You Need.`
+* ICML17_`Axiomatic Attribution for Deep Networks.`
+* IJCAI17_Image-embodied Knowledge Representation Learning.
+* Arxiv18_Automatic Differentiation in Machine Learning: a Survey.
+* Course18_[CSC321 Lecture 10: Automatic Differentiation](https://www.cs.toronto.edu/~rgrosse/courses/csc321_2018/slides/lec10.pdf).
+* Blog18_[The Illustrated Transformer](https://jalammar.github.io/illustrated-transformer/).
+* Blog19_[Transformer Architecture: The Positional Encoding](https://kazemnejad.com/blog/transformer_architecture_positional_encoding/).
+* BlackBoxNLP19_What Does BERT Look At? An Analysis of BERT's Attention.
+* EMNLP19_`Language Models as Knowledge Bases.`
+* Arxiv19_SPair-71k: A Large-scale Benchmark for Semantic Correspondence.
+* ICCV19_Hyperpixel Flow: Semantic Correspondence with Multi-layer Neural Features.
+* ACL20_What Does BERT with Vision Look At?
+* EMNLP20_`Transformer Feed-Forward Layers Are Key-Value Memories.`
+* ICLR21_An Image is Worth 16x16 Words: Transformers for Image Recognition at Scale.
+* ACL21_Knowledgeable or Educated Guess Revisiting Language Models as Knowledge Bases.
+* AAAI21_`Self-Attention Attribution: Interpreting Information Interactions Inside Transformer.`
+* ACL22_`Knowledge Neurons in Pretrained Transformers.`
+* ICLR22_Beit: Bert pre-training of image transformers.
+* CVPR22_`Masked Autoencoders Are Scalable Vision Learners.`
+* Arxiv22_Hierarchical Text-Conditional Image Generation with CLIP Latents. [DALLE2](https://openai.com/dall-e-2/)
+* Arxiv22_A very preliminary analysis of DALL-E 2.
+* Arxiv22_Photorealistic Text-to-Image Diffusion Models with Deep Language Understanding. [Imagen](https://imagen.research.google/)
+* ACL22_Do Transformer Models Show Similar Attention Patterns to Task-Specific Human Gaze?
+* ACL22_Is Attention Explanation? An Introduction to the Debate.
+* CVPR22_VL-InterpreT: An Interactive Visualization Tool for Interpreting Vision-Language Transformers.
+* ACL22_Does BERT Know that the IS-A Relation Is Transitive?
 
 ## Pretrained Vision Models, with Masked Image Modeling (MIM)
 
