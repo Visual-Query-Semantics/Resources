@@ -29,6 +29,7 @@
 * ACL22_Does BERT Know that the IS-A Relation Is Transitive?
 * Arxiv22_Visualizing and Understanding Patch Interactions in Vision Transformer.
 * ICML22_Rethinking Attention-Model Explainability through Faithfulness Violation Test.
+* ACL22_Attention as Grounding: Exploring Textual and Cross-Modal Attention on Entities and Relations in Language-and-Vision Transformer.
 
 ## Pretrained Vision Models, with Masked Image Modeling (MIM)
 
