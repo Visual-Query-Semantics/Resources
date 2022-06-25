@@ -17,6 +17,7 @@
 * ICLR21_An Image is Worth 16x16 Words: Transformers for Image Recognition at Scale.
 * ACL21_Knowledgeable or Educated Guess Revisiting Language Models as Knowledge Bases.
 * AAAI21_`Self-Attention Attribution: Interpreting Information Interactions Inside Transformer.`
+* NeurIPS21_BARTScore: Evaluating Generated Text as Text Generation.
 * ACL22_`Knowledge Neurons in Pretrained Transformers.`
 * ICLR22_Beit: Bert pre-training of image transformers.
 * CVPR22_`Masked Autoencoders Are Scalable Vision Learners.`
